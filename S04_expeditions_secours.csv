@@ -1,0 +1,13 @@
+shipment_id,article,quantite,poids_unitaire_kg,verifie,destination
+S001,"Eau (pack 6 × 1,5 L)",500,9.0,True,Les Cayes
+S002,Riz (sac 25 kg),800,25.0,True,Jérémie
+S003,Bâche,-25,2.5,False,Les Cayes
+S004,"Eau (pack 6 × 1,5 L)",650,9.0,True,Camp-Perrin
+S005,Riz (sac 25 kg),720,25.0,True,Jérémie
+S006,Kit d’hygiène,300,4.2,True,Chantal
+S007,Riz (sac 25 kg),400,25.0,True,Aquin
+S007,Riz (sac 25 kg),400,25.0,True,Aquin
+S008,Bâche,150,2.5,True,Maniche
+S009,Kit d’hygiène,200,,True,Torbeck
+S010,"Eau (pack 6 × 1,5 L)",380,9.0,False,Aquin
+S011,Riz (sac 25 kg),260,25.0,True,Port-Salut
